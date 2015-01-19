@@ -8,7 +8,7 @@
   ],
   "description": "very simple tag cloud jQuery Plugin",
   "main": [
-    "build/jquery.tx3-tag-cloud.js",
+    "build/jquery.tx3-tag-cloud.min.js",
     "src/tx3-tag-cloud.css"
   ],
   "keywords": [
