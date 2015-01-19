@@ -1,22 +1,19 @@
 ul.tx3-tag-cloud
 {
-	
+	padding: 0px;
+	margin: 0px;
 }
 
 ul.tx3-tag-cloud li
 {
-	display: block;
-	float: left;
+	display: inline-block;
 	list-style: none;
 	margin-right: 4px;
 }
 
 ul.tx3-tag-cloud li a
 {
-	display: block;
-	text-decoration: none;
 	color: #c9c9c9;
-	padding: 3px 10px;
 }
 
 ul.tx3-tag-cloud li a:hover
@@ -28,3 +25,4 @@ ul.tx3-tag-cloud li a:hover
     -ms-transition: color 250ms linear;
     transition: color 250ms linear;
 }
+
